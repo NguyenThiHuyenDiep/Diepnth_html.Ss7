@@ -1,0 +1,72 @@
+width: 100%;
+}
+
+.header{
+    font-size: larger;
+    background-color: hsl(220, 13%, 18%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 15px;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    font-size: small;
+    text-align: right;
+}
+
+.infor{
+    text-align: right;
+}
+
+#pic{
+    border-radius: 50%;
+    border: 3px solid brown;
+}
+
+.img{
+    padding: 20px;
+    padding-right: 5px;
+}
+
+.tb2{
+    background-color: #f1f1f1; 
+}
+
+.prj{
+    border-spacing: 20px;
+}
+
+.intro{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.myprj{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 25px;
+}
+
+.prjtype{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(25, 25, 25);
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid;
+}
+
+.coverprj{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#end{
+    text-align: center;
+    background-color: #f1f1f1; 
+    padding: 20px;
+}
