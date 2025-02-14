@@ -1,0 +1,27 @@
+*{
+
+    padding:0;
+    margin:0;
+    border:0;
+    font-size:40px;
+    background-color: rgba(242, 240, 233, 0.928);
+}
+.container{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgba(45, 53, 67, 0.853);
+    font-size: 350%%;
+}
+.ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70%;
+}
+.bt{
+    background-color:rgb(194, 10, 10);
+    color:aliceblue;
+}
+.bt1{
+    background-color: aliceblue;
+    color:black
+}
+
+
